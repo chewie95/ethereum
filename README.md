@@ -1,0 +1,1 @@
+This is my first try at copying a webpage and learning good use of CSS with HTML.
